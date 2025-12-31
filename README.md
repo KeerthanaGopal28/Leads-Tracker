@@ -38,9 +38,9 @@ A simple and usefull chrome Extension that saves the current tab URL and input d
 - ON developer mood.
 - You can see options like load unpacked.
 - There you select the extracted file.
-- then enjoy using application.(You will find it in the extensions wallet)
-  
-- 
+- then enjoy using application.(You will find it in the extensions wallet).
+
+Thanks for reading my repo!!
 
 
 
