@@ -17,12 +17,15 @@ A simple and usefull chrome Extension that saves the current tab URL and input d
 - It uses chrome api for getting the current window information.
 ## How it looks
 <img width="736" height="269" alt="image" src="https://github.com/user-attachments/assets/6042e226-ea29-4392-8db5-0dfddf25ad7f" />
+
 - adding the current tab by clicking save tab button
     
 <img width="837" height="247" alt="image" src="https://github.com/user-attachments/assets/dd205687-b44b-424b-a3c8-521a581c4b1b" />
+
 - Using Input field entering website name
     
 <img width="774" height="312" alt="image" src="https://github.com/user-attachments/assets/6493e8fe-0bbb-4fbd-9577-992f838e83ee" />
+
 - Saving Input using save button
     
 <img width="737" height="289" alt="image" src="https://github.com/user-attachments/assets/3fc136cb-2378-45e3-9041-f2db675eb8f4" />
