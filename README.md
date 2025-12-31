@@ -23,7 +23,6 @@ A simple and usefull chrome Extension that saves the current tab URL and input d
 - Using Input field entering website name
     
 <img width="774" height="312" alt="image" src="https://github.com/user-attachments/assets/6493e8fe-0bbb-4fbd-9577-992f838e83ee" />
-
 - Saving Input using save button
     
 <img width="737" height="289" alt="image" src="https://github.com/user-attachments/assets/3fc136cb-2378-45e3-9041-f2db675eb8f4" />
